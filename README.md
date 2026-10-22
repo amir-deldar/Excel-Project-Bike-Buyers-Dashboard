@@ -1,10 +1,7 @@
-# 🚲 Bike Buyers Analysis — Excel Dashboard
+# 🚲 Bike Buyers Analysis - Excel Dashboard
 
 An end-to-end Excel data analysis project that cleans a raw customer dataset, summarizes it with PivotTables, and presents the results in an interactive dashboard to understand **who buys bikes**.
 
-![Dashboard preview](<!-- PATH TO DASHBOARD SCREENSHOT, e.g. images/dashboard.png -->)
-
----
 
 ## 📌 Project Overview
 
@@ -16,8 +13,8 @@ A bike retailer wants to know which customers are most likely to buy a bike. Usi
 
 | File | Description |
 |------|-------------|
-| [`Raw_Bike_Buyers_Data.xlsx`](<!-- PATH TO RAW DATA FILE -->) | Original, untouched dataset (1,026 rows, 13 columns) |
-| [`Bike_Buyers_Dashboard.xlsx`](<!-- PATH TO DASHBOARD FILE -->) | Cleaned data, PivotTables and the final dashboard |
+| [`Raw_Bike_Buyers_Data.xlsx`](01 Raw Excel/Raw_Bike_Buyers_Data.xlsx) | Original, untouched dataset (1,026 rows, 13 columns) |
+| [`Bike_Buyers_Dashboard.xlsx`](02 Processed Excel/Bike_Buyers_Dashboard.xlsx) | Cleaned data, PivotTables and the final dashboard |
 
 The dashboard workbook has four sheets:
 
@@ -114,17 +111,6 @@ Buyers have a higher average income than non-buyers in both genders, and the inc
 3. **Don't segment by gender**; purchase rates are nearly equal.
 4. **Look at the Pacific region** to see what drives its higher conversion and whether it can be replicated elsewhere.
 
-## ▶️ How to Use the Dashboard
-
-1. Download `Bike_Buyers_Dashboard.xlsx` and open it in Excel (desktop version recommended, because slicers need it).
-2. Go to the **Dashboard** sheet.
-3. Use the slicers (**Marital Status, Education, Region**) to filter all charts at once.
-
-## ⚠️ Notes & Limitations
-
-- This is a snapshot dataset of 1,000 customers, so results show association, not causation.
-- The `Age Bracket` formula classifies age 55 as "Middle Age" (the formula uses `>55` for "Old 55+"), so the label "Old 55+" technically means 56+. You may want to change it to `>=55` and re-check the numbers.
-- The `Working Sheet` header spells *Marital* as "Marrital"; the same spelling appears on the slicer.
 
 ## 👤 Author
 
