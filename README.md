@@ -111,7 +111,8 @@ Buyers have a higher average income than non-buyers in both genders, and the inc
 3. **Don't segment by gender**; purchase rates are nearly equal.
 4. **Look at the Pacific region** to see what drives its higher conversion and whether it can be replicated elsewhere.
 
+**Author: Amir Deldar**
 
-## 📬 Contact
+## 📬 Contact:
 
-**Author: Amir Deldar**  [LinkedIn](https://www.linkedin.com/in/amirdeldar) · [GitHub](https://github.com/amir-deldar) · Email: <callmedeldar@gmail.com>
+[LinkedIn](https://www.linkedin.com/in/amirdeldar) · [GitHub](https://github.com/amir-deldar) · Email: <callmedeldar@gmail.com>
