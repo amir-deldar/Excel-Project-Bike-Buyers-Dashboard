@@ -114,5 +114,4 @@ Buyers have a higher average income than non-buyers in both genders, and the inc
 
 ## 📬 Contact
 
-**Amir Deldar** — [LinkedIn](https://www.linkedin.com/in/amirdeldar) · [GitHub](https://github.com/amir-deldar) · callmedeldar@gmail.com
-- Email: <callmedeldar@gmail.com>
+**Amir Deldar**  [LinkedIn](https://www.linkedin.com/in/amirdeldar) · [GitHub](https://github.com/amir-deldar) · Email: <callmedeldar@gmail.com>
