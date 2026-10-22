@@ -112,9 +112,7 @@ Buyers have a higher average income than non-buyers in both genders, and the inc
 4. **Look at the Pacific region** to see what drives its higher conversion and whether it can be replicated elsewhere.
 
 
-## 👤 Author
+## 📬 Contact
 
-**<Amir Deldar>**
-- LinkedIn: <www.linkedin.com/in/amirdeldar>
-- GitHub: <www.github.com/amir-deldar>
+**Amir Deldar** — [LinkedIn](https://www.linkedin.com/in/amirdeldar) · [GitHub](https://github.com/amir-deldar) · callmedeldar@gmail.com
 - Email: <callmedeldar@gmail.com>
