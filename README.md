@@ -90,7 +90,7 @@ Middle aged customers make up **72% of the customer base** and account for **~81
 | 5–10 miles | 192 | 76 | 39.6% |
 | More than 10 miles | 111 | 33 | **29.7%** |
 
-Customers commuting **under 5 miles** are the most likely buyers, while those commuting **10+ miles** are the least likely. Purchase rates fall noticeably past the 5-mile mark.
+Customers commuting **under 5 miles** are the most likely buyers, while those commuting **10+ miles** are the least likely. Purchase rates fall noticeably past the 5 mile mark.
 
 ### 3. Buyers earn more on average, and men earn more than women
 | Gender | Avg income (non-buyers) | Avg income (buyers) |
@@ -99,7 +99,7 @@ Customers commuting **under 5 miles** are the most likely buyers, while those co
 | Male | $56,208 | $60,124 |
 | **All** | $54,875 | **$57,963** |
 
-Buyers have a higher average income than non-buyers in both genders, and the income gap between men and women exists in both groups. Purchase rates by gender are almost identical (female 48.9% vs. male 47.4%), so **gender alone is not a useful targeting factor**.
+Buyers have a higher average income than non buyers in both genders, and the income gap between men and women exists in both groups. Purchase rates by gender are almost identical (female 48.9% vs. male 47.4%), so **gender alone is not a useful targeting factor**.
 
 
 ## Recommendations
