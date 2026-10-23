@@ -1,6 +1,6 @@
 # Bike Buyers Analysis Dashboard (Excel Project)
 
-An end-to-end Excel data analysis project that cleans a raw customer dataset, summarizes it with PivotTables, and presents the results in an interactive dashboard to understand **who buys bikes**.
+An end to end Excel data analysis project that cleans a raw customer dataset, summarizes it with PivotTables, and presents the results in an interactive dashboard to understand **who buys bikes**.
 
 
 ## Project Overview
