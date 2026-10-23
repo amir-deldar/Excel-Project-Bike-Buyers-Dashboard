@@ -23,10 +23,10 @@ A bike retailer wants to know which customers are most likely to buy a bike. Usi
 
 The dashboard workbook has four sheets:
 
-1. **bike_buyers** – a copy of the raw data
-2. **Working Sheet** – the cleaned data plus the new *Age Bracket* column
-3. **Pivot Table** – the PivotTables and charts that feed the dashboard
-4. **Dashboard** – the final, interactive report
+1. **bike_buyers** a copy of the raw data
+2. **Working Sheet** the cleaned data plus the new *Age Bracket* column
+3. **Pivot Table** the PivotTables and charts that feed the dashboard
+4. **Dashboard** the final, interactive report
 
 ## Dataset
 
@@ -79,7 +79,7 @@ Overall, **481 of 1,000 customers (48.1%) purchased a bike.**
 | Adolescent (0–30) | 110 | 39 | 35.5% |
 | Old (55+) | 171 | 54 | 31.6% |
 
-Middle-aged customers make up **72% of the customer base** and account for **~81% of all bike purchases**. Purchases peak between roughly ages 34–38.
+Middle aged customers make up **72% of the customer base** and account for **~81% of all bike purchases**. Purchases peak between roughly ages 34–38.
 
 ### 2. Shorter commutes mean more purchases
 | Commute Distance | Customers | Bought a bike | Purchase rate |
@@ -104,8 +104,8 @@ Buyers have a higher average income than non-buyers in both genders, and the inc
 
 ## Recommendations
 
-1. **Target 31–54 year olds**, the largest and highest-converting segment.
-2. **Focus marketing near commuters traveling under 5 miles**, such as city and suburban areas, and review how to serve long-distance commuters.
+1. **Target 31–54 year olds**, the largest and highest converting segment.
+2. **Focus marketing near commuters traveling under 5 miles**, such as city and suburban areas, and review how to serve long distance commuters.
 3. **Don't segment by gender**; purchase rates are nearly equal.
 
 **Author: Amir Deldar**
