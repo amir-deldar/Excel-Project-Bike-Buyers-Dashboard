@@ -104,7 +104,7 @@ Buyers have a higher average income than non-buyers in both genders, and the inc
 
 ## Recommendations
 
-1. **Target 31–54-year-olds**, the largest and highest-converting segment.
+1. **Target 31–54 year olds**, the largest and highest-converting segment.
 2. **Focus marketing near commuters traveling under 5 miles**, such as city and suburban areas, and review how to serve long-distance commuters.
 3. **Don't segment by gender**; purchase rates are nearly equal.
 
