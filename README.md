@@ -1,4 +1,4 @@
-# 🚲 Bike Buyers Analysis - Excel Dashboard
+# 🚲 Bike Buyers Analysis Dashboard (Excel Project)
 
 An end-to-end Excel data analysis project that cleans a raw customer dataset, summarizes it with PivotTables, and presents the results in an interactive dashboard to understand **who buys bikes**.
 
@@ -9,12 +9,17 @@ A bike retailer wants to know which customers are most likely to buy a bike. Usi
 
 **Business question:** Which customer segments are most likely to purchase a bike?
 
-## 📂 Repository Contents
+## 🗂 Repository Structure
 
-| File | Description |
-|------|-------------|
-| [`Raw_Bike_Buyers_Data.xlsx`](01 Raw Excel/Raw_Bike_Buyers_Data.xlsx) | Original, untouched dataset (1,026 rows, 13 columns) |
-| [`Bike_Buyers_Dashboard.xlsx`](02 Processed Excel/Bike_Buyers_Dashboard.xlsx) | Cleaned data, PivotTables and the final dashboard |
+```
+├── raw excel/
+│   └── Raw_Bike_Buyers_Data.xlsx
+├── Processed Excel/
+│   └── Bike_Buyers_Dashboard.xlsx
+├── images/
+│   └── Bike_Buyers_Excel_Dashboard_ScreenShot.png
+└── README.md
+```
 
 The dashboard workbook has four sheets:
 
@@ -113,6 +118,6 @@ Buyers have a higher average income than non-buyers in both genders, and the inc
 
 **Author: Amir Deldar**
 
-## 📬 Contact:
+**Contact:**
 
 [LinkedIn](https://www.linkedin.com/in/amirdeldar) · [GitHub](https://github.com/amir-deldar) · Email: <callmedeldar@gmail.com>
