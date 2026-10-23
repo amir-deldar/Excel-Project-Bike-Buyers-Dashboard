@@ -101,13 +101,6 @@ Customers commuting **under 5 miles** are the most likely buyers, while those co
 
 Buyers have a higher average income than non-buyers in both genders, and the income gap between men and women exists in both groups. Purchase rates by gender are almost identical (female 48.9% vs. male 47.4%), so **gender alone is not a useful targeting factor**.
 
-### 4. Additional insights from the cleaned data
-*These come from supplementary analysis of the `Working Sheet`, not from the dashboard charts.*
-
-- **Region:** Pacific has the highest purchase rate (58.9%), followed by Europe (49.3%) and North America (43.3%).
-- **Marital status:** Single customers buy more often (54.1%) than married customers (42.9%).
-- **Education:** Customers with a Bachelors (55.2%) or Graduate degree (54.0%) buy more than those with partial high school (26.3%).
-- **Cars:** Customers with 0–1 cars buy at 57–61%, versus 36–39% for those with 2 or more cars.
 
 ## Recommendations
 
