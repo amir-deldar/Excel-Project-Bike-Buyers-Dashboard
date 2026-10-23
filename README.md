@@ -1,9 +1,9 @@
-# 🚲 Bike Buyers Analysis Dashboard (Excel Project)
+# Bike Buyers Analysis Dashboard (Excel Project)
 
 An end-to-end Excel data analysis project that cleans a raw customer dataset, summarizes it with PivotTables, and presents the results in an interactive dashboard to understand **who buys bikes**.
 
 
-## 📌 Project Overview
+## Project Overview
 
 A bike retailer wants to know which customers are most likely to buy a bike. Using a dataset of 1,000 customers, this project explores how **gender, income, commute distance and age** relate to bike purchases, and wraps the findings in a dashboard with slicers so the data can be filtered by **marital status, education and region**.
 
@@ -28,7 +28,7 @@ The dashboard workbook has four sheets:
 3. **Pivot Table** – the PivotTables and charts that feed the dashboard
 4. **Dashboard** – the final, interactive report
 
-## 📊 Dataset
+## Dataset
 
 Each row is one customer.
 
@@ -48,7 +48,7 @@ Each row is one customer.
 | Age | Customer age |
 | Purchased Bike | **Target variable** — Yes / No |
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 - **Removed 26 duplicate records** (1,026 → 1,000 unique customers).
 - **Standardized abbreviations** into readable labels: `M`/`S` → Married/Single and `M`/`F` → Male/Female.
@@ -59,7 +59,7 @@ Each row is one customer.
   - Old 55+
 - Checked for missing values: none were found.
 
-## 🛠️ Tools & Techniques
+## Tools & Techniques
 
 - **Microsoft Excel**
 - Data cleaning (remove duplicates, find & replace)
@@ -68,7 +68,7 @@ Each row is one customer.
 - Slicers for interactive filtering
 - Dashboard design
 
-## 🔍 Key Findings
+## Key Findings
 
 Overall, **481 of 1,000 customers (48.1%) purchased a bike.**
 
@@ -109,7 +109,7 @@ Buyers have a higher average income than non-buyers in both genders, and the inc
 - **Education:** Customers with a Bachelors (55.2%) or Graduate degree (54.0%) buy more than those with partial high school (26.3%).
 - **Cars:** Customers with 0–1 cars buy at 57–61%, versus 36–39% for those with 2 or more cars.
 
-## 💡 Recommendations
+## Recommendations
 
 1. **Target 31–54-year-olds**, the largest and highest-converting segment.
 2. **Focus marketing near commuters traveling under 5 miles**, such as city and suburban areas, and review how to serve long-distance commuters.
